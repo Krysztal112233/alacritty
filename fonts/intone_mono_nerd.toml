@@ -1,0 +1,5 @@
+[font]
+    bold = { family = "IntoneMono Nerd Font" }
+    italic = { family = "IntoneMono Nerd Font" }
+    normal = { family = "IntoneMono Nerd Font" }
+    bold_italic = { family = "IntoneMono Nerd Font" }

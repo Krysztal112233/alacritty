@@ -1,0 +1,5 @@
+[font]
+    bold = { family = "Monaspace Argon" }
+    italic = { family = "Monaspace Argon" }
+    normal = { family = "Monaspace Argon" }
+    bold_italic = { family = "Monaspace Argon" }

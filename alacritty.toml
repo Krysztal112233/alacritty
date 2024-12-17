@@ -1,0 +1,11 @@
+[general]
+    import = ["themes/themes/monokai_pro.toml", "fonts/blex_mono_nerd.toml"]
+    live_config_reload = true
+
+[window]
+    blur = true
+    opacity = 0.8
+
+[font]
+    bold_italic = { family = "MonaspiceRn Nerd Font Mono", style = "Italic" }
+    italic = { family = "MonaspiceRn Nerd Font Mono", style = "Light Italic" }
