@@ -1,5 +1,4 @@
 {
     "evenBetterToml.formatter.allowedBlankLines": 2,
-    "evenBetterToml.formatter.indentTables": true,
-    "evenBetterToml.formatter.indentEntries": true
+    "evenBetterToml.formatter.indentEntries": true,
 }
