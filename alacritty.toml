@@ -1,13 +1,9 @@
 [general]
-import = ["themes/themes/monokai_pro.toml", "fonts/blex_mono_nerd.toml"]
+import = ["themes/themes/monokai_pro.toml", "fonts/maple_mono.toml"]
 live_config_reload = true
 
 [window]
 blur = false
-
-[font]
-bold_italic = { family = "MonaspiceRn Nerd Font Mono", style = "Bold Italic" }
-italic = { family = "MonaspiceRn Nerd Font Mono", style = "Light Italic" }
 
 [keyboard]
 bindings = [{ key = "Tab", action = "ReceiveChar" }]

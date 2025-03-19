@@ -1,0 +1,5 @@
+[font]
+    bold = { family = "Maple Mono NF CN" }
+    italic = { family = "Maple Mono NF CN" }
+    normal = { family = "Maple Mono NF CN" }
+    bold_italic = { family = "Maple Mono NF CN" }
